@@ -1,4 +1,4 @@
-const content = require('../models/content')
+const content = require('../models/Content')
 const community = require("../models/Community")
 const comment = require("../models/Comment")
 async function createContent(req,res) {
