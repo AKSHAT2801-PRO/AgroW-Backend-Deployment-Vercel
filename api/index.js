@@ -81,6 +81,8 @@ app.get("/",(req,res)=>{
 app.get("/api/community/addmember",(req,res)=>{
   return res.send("<h1>Welcome to AgroW Backend Community</h1>")
 })
+
+module.exports = app;
 // app.listen(port,()=>{console.log("Server started at port: "+port)})
 // // started the server at port: 8001
 
