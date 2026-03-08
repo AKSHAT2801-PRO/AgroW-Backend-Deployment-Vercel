@@ -1,0 +1,219 @@
+[
+  {
+    "id": 2,
+    "title": "Organic Management Approaches and Practices to Support Sustainable Horticultural and Fruit Plants Production",
+    "url": "https://doi.org/10.3390/agriculture15080801",
+    "topic": "Organic Farming",
+    "summary": "This paper highlights agroecological approaches to reduce reliance on chemical inputs for safe and sustainable horticultural production."
+  },
+  {
+    "id": 3,
+    "title": "Evaluating the Path to the European Commission's Organic Agriculture Goal: A Multivariate Analysis of Changes in EU Countries",
+    "url": "https://doi.org/10.3390/agriculture14030477",
+    "topic": "Organic Farming",
+    "summary": "A comprehensive evaluation of the socio-economic relationships and changes driving the European Commission's organic agriculture goals between 2004 and 2021."
+  },
+  {
+    "id": 4,
+    "title": "The Effect of Crop Production Systems and Cultivars on Spring Wheat Yield in a Long-Term Experiment",
+    "url": "https://doi.org/10.3390/agriculture14040625",
+    "topic": "Organic Farming",
+    "summary": "The research determines the impact of organic, integrated, and conventional crop production systems on the yield of spring wheat."
+  },
+  {
+    "id": 5,
+    "title": "Impact of Food Supermarket Opening Hours on Small and Medium Agri-Food Producers",
+    "url": "https://doi.org/10.3390/agriculture14101847",
+    "topic": "Agricultural Economics",
+    "summary": "This research investigates how the dominant market position and opening hours of large retail chains affect consumer shopping habits and small-scale food producers."
+  },
+  {
+    "id": 6,
+    "title": "Dynamics of Energy Fluxes in a Mediterranean Vineyard: Influence of Soil Moisture",
+    "url": "https://doi.org/10.3390/agriculture14101845",
+    "topic": "Precision Agriculture",
+    "summary": "This study focuses on optimizing water management in Mediterranean climates by evaluating sensible and latent energy fluxes at the canopy and soil levels."
+  },
+  {
+    "id": 7,
+    "title": "Two-Stage Multimodal Method for Predicting Intramuscular Fat in Pigs",
+    "url": "https://doi.org/10.3390/agriculture14101843",
+    "topic": "Livestock Management",
+    "summary": "Addressing the need for non-destructive meat quality assessment, this research utilizes ultrasound imaging and segmentation networks to predict fat content."
+  },
+  {
+    "id": 8,
+    "title": "The Role of Digital Finance in Shaping Agricultural Economic Resilience: Evidence from Machine Learning",
+    "url": "https://doi.org/10.3390/agriculture14101834",
+    "topic": "Agricultural Economics",
+    "summary": "This paper analyzes how digital finance affects agricultural economic resilience using machine learning methodologies."
+  },
+  {
+    "id": 9,
+    "title": "The state of agricultural extension services in Sri Lanka, 2024-2025",
+    "url": "https://hdl.handle.net/10568/178096",
+    "topic": "Agricultural Extension",
+    "summary": "A detailed project paper exploring the current landscape and operational efficiency of agricultural extension services in Sri Lanka."
+  },
+  {
+    "id": 10,
+    "title": "Development Status and Key Technologies of Plant Protection UAVs in China: A Review",
+    "url": "https://doi.org/10.3390/drones6110354",
+    "topic": "Precision Agriculture",
+    "summary": "A review of Unmanned Aerial Vehicles (UAVs) utilized for crop protection, focusing on recent technological advancements in China."
+  },
+  {
+    "id": 11,
+    "title": "Dynamic Quantification and Prediction of Salt Tolerance Threshold in Summer Maize Under Different Regimes of Brackish Water Irrigation",
+    "url": "https://doi.org/10.3390/agriculture16050495",
+    "topic": "Crop Protection",
+    "summary": "This study elucidates the dynamic nature of salt tolerance in summer maize and provides a scientific basis for optimizing brackish water irrigation."
+  },
+  {
+    "id": 12,
+    "title": "Precision agriculture for improving crop yield predictions: a literature review",
+    "url": "https://doi.org/10.3389/fagro.2025.1566201",
+    "topic": "Precision Agriculture",
+    "summary": "A literature review highlighting key gaps and opportunities for remote sensing and machine learning techniques in predicting crop yields."
+  },
+  {
+    "id": 13,
+    "title": "Opportunities and Barriers to Develop Interactive Digital Extension Services for Smallholder Farmers",
+    "url": "https://www.mdpi.com/2071-1050/17/7/3007",
+    "topic": "Agricultural Extension",
+    "summary": "This study uses a systematic review method to explore the implementation of interactive digital extension services in developing countries."
+  },
+  {
+    "id": 14,
+    "title": "Phytostimulator Application after Cold Stress for Better Maize (Zea mays L.) Plant Recovery",
+    "url": "https://www.mdpi.com/journal/agriculture/special_issues/crop_protection_organic_farming",
+    "topic": "Crop Protection",
+    "summary": "Research exploring the application of phytostimulators to enhance the recovery of maize plants following periods of cold stress."
+  },
+  {
+    "id": 15,
+    "title": "Organic Farming: Scope and Potential in North Eastern Hill Region of India",
+    "url": "https://www.researchgate.net/publication/389404157",
+    "topic": "Organic Farming",
+    "summary": "This chapter examines the potential of organic farming in the North Eastern Region of India, highlighting its biodiversity and agro-climatic conditions."
+  },
+  {
+    "id": 16,
+    "title": "Future ecosystem service provision under land-use change scenarios in southwestern Ethiopia",
+    "url": "https://www.researchgate.net/publication/378880109",
+    "topic": "Ecosystem Services",
+    "summary": "An analysis of how intensive land conversion and agricultural expansion threaten terrestrial habitats and biological diversity in Ethiopia."
+  },
+  {
+    "id": 17,
+    "title": "The Impact of Livelihood Capital on Farmers' Willingness to Participate in Wildlife Conservation",
+    "url": "https://www.mdpi.com/journal/sustainability/topical_collections/Agricultural_Systems_Ecosystem_Services",
+    "topic": "Agricultural Systems",
+    "summary": "Evidence gathered from farming communities around the Jiyuan Macaque Nature Reserve regarding their participation in conservation efforts."
+  },
+  {
+    "id": 18,
+    "title": "The Effect of Awareness of Renewable Energy Resources on Sustainable Production in Dairy Farming",
+    "url": "https://www.mdpi.com/journal/sustainability/topical_collections/Agricultural_Systems_Ecosystem_Services",
+    "topic": "Agricultural Systems",
+    "summary": "A case study from Konya Province, Turkey, detailing how renewable energy awareness translates to sustainable dairy production."
+  },
+  {
+    "id": 19,
+    "title": "Determinants and risk mitigation in livestock management practices among smallholder farmers in the Eastern Cape Province of South Africa",
+    "url": "https://doi.org/10.3389/fsufs.2025.1636417",
+    "topic": "Livestock Management",
+    "summary": "An examination of risk mitigation strategies deployed by smallholder livestock farmers facing local environmental challenges."
+  },
+  {
+    "id": 20,
+    "title": "The Key Role of Cooperatives in Sustainable Agriculture and Agrifood Security: Evidence from Greece",
+    "url": "https://doi.org/10.3390/su16167202",
+    "topic": "Agricultural Economics",
+    "summary": "A look into how agricultural cooperatives are securing agrifood pipelines and promoting sustainability within the Greek economy."
+  },
+  {
+    "id": 21,
+    "title": "Exploring the potential of decentralized extension models on the sustainability of livelihoods: a food security lens on aquaculture farmers in Bangladesh",
+    "url": "https://doi.org/10.3389/fsufs.2024.1499081",
+    "topic": "Agricultural Extension",
+    "summary": "A study investigating how decentralized extension networks improve the food security and sustainability of aquaculture operations in Bangladesh."
+  },
+  {
+    "id": 22,
+    "title": "Global Trends in Agricultural Extension Research A Bibliometric Analysis Using Scopus Database",
+    "url": "https://www.researchgate.net/publication/398039163",
+    "topic": "Agricultural Extension",
+    "summary": "A comprehensive bibliometric review of global trends in agricultural extension services, identifying themes like ICT-enabled extensions and climate resilience."
+  },
+  {
+    "id": 23,
+    "title": "Diversification of Agricultural Output Intensity across the European Union in Light of the Assumptions of Sustainable Development",
+    "url": "https://doi.org/10.3390/agriculture12091370",
+    "topic": "Sustainable Agriculture",
+    "summary": "An analysis of the diversification required across the EU to harmonize food security with long-term environmental stewardship."
+  },
+  {
+    "id": 24,
+    "title": "Utilizing Information and Communication Technology (ICT) to grant farmers direct access to information",
+    "url": "https://doi.org/10.3389/fsufs.2025.1430336",
+    "topic": "Digital Agriculture",
+    "summary": "A bibliometric analysis covering ICT-based extension and advisory services (EAS) to understand technology integration in modern agriculture."
+  },
+  {
+    "id": 25,
+    "title": "Digital innovation in agriculture has become a powerful force in the modern world",
+    "url": "https://www.mdpi.com/2077-0472/15/3/258",
+    "topic": "Digital Agriculture",
+    "summary": "This study examines the effects of digital technology on key agricultural performance metrics, including agricultural output and real labor productivity."
+  },
+  {
+    "id": 26,
+    "title": "Exploring the scope of ecosystem services in diverse farming systems for sustainable agriculture: A review",
+    "url": "https://www.researchgate.net/publication/391196909",
+    "topic": "Ecosystem Services",
+    "summary": "A broad review emphasizing that ecosystem services are fundamental to promoting agricultural sustainability and enhancing resilience."
+  },
+  {
+    "id": 27,
+    "title": "Adoption of digital platforms for marketing of agricultural produce by farmers in Bihar",
+    "url": "https://doi.org/10.18805/IJAR.B-4092",
+    "topic": "Agricultural Marketing",
+    "summary": "Research evaluating the digital marketing shift and adoption rates among farmers managing their agricultural produce sales in India."
+  },
+  {
+    "id": 28,
+    "title": "Mediating role of the regulatory framework in board accountability and sustainable growth of agricultural marketing co-operative societies in Simiyu, Tanzania",
+    "url": "https://www.researchgate.net/topic/Agricultural-Marketing/publications",
+    "topic": "Agricultural Marketing",
+    "summary": "This study examines how regulatory frameworks mediate the relationship between board accountability and the growth of agricultural co-operatives."
+  },
+  {
+    "id": 29,
+    "title": "Value Chain Analysis of Sesame Production and Marketing Among Smallholder Farmers in Magwi County, South Sudan",
+    "url": "https://www.researchgate.net/topic/Agricultural-Marketing/publications",
+    "topic": "Agricultural Marketing",
+    "summary": "An analysis reviewing current methods of sesame production and proposing solutions to resolve production and marketing challenges for smallholders."
+  },
+  {
+    "id": 30,
+    "title": "Innovations in the agricultural insurance market: a systematic literature review",
+    "url": "https://doi.org/10.1108/AFR-09-2024-0149",
+    "topic": "Agricultural Insurance",
+    "summary": "A systematic review focusing on how new technologies improve pricing, risk analysis, and distribution in the agricultural insurance sector."
+  },
+  {
+    "id": 31,
+    "title": "Effect of organic farming on the number of ASVs in the soil microbial communities",
+    "url": "https://www.mdpi.com/2077-0472/15/13/1381",
+    "topic": "Organic Farming",
+    "summary": "This study demonstrates that organic farming enhances the functional roles of microorganisms in nutrient cycling by boosting soil organic carbon content."
+  },
+  {
+    "id": 32,
+    "title": "Digital Agriculture Transforming Extension Services",
+    "url": "https://greenaria.in/wp-content/uploads/2024/10/DIGITAL-AGRICULTURE-TRANSFORMING-EXTENSION-SERVICES.pdf",
+    "topic": "Agricultural Extension",
+    "summary": "An overview of how digital agriculture extension services can effectively empower farmers and support infrastructure development."
+  }
+]
