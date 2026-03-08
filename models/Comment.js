@@ -1,5 +1,4 @@
 const mongoose = require("mongoose")
-const content = require("./Content")
 const commentSchema = new mongoose.Schema({
     communityId : {
         type : String,
